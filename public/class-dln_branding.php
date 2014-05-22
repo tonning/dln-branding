@@ -28,7 +28,7 @@ class DLN_Branding {
 	 *
 	 * @var     string
 	 */
-	const VERSION = '0.0.2';
+	const VERSION = '0.0.3';
 
 	/**
 	 * Unique identifier for your plugin.
