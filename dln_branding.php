@@ -14,7 +14,7 @@
  * Plugin Name:       DLN Branding
  * Plugin URI:        http://dreamlabnine.com
  * Description:       Branding of Dream Lab Nine websites
- * Version:           1.1.0
+ * Version:           1.1.1
  * Author:            Kristoffer Tonning
  * Author URI:        http://kristoffertonning.com
  * Text Domain:       dln_branding
