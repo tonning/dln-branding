@@ -84,6 +84,7 @@ class DLN_Branding_Admin {
 
 		require_once 'includes/class-github-updater.php';
 		require_once 'includes/class-plugin-updater.php';
+		require_once 'includes/class-github-api.php';
 		new GitHub_Plugin_Updater;
 
 	}
