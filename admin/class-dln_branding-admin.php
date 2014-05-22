@@ -82,6 +82,10 @@ class DLN_Branding_Admin {
 		add_action( '@TODO', array( $this, 'action_method_name' ) );
 		add_filter( '@TODO', array( $this, 'filter_method_name' ) );
 
+		require_once 'includes/class-github-updater.php';
+		require_once 'includes/class-plugin-updater.php';
+		new GitHub_Plugin_Updater;
+
 	}
 
 	/**
