@@ -173,3 +173,7 @@ function add_admin_favicon() {
 // Now, just make sure that function runs when you're on the login page and admin pages  
 add_action('login_head', 'add_admin_favicon');
 add_action('admin_head', 'add_admin_favicon');
+
+
+// Remove WooThemes Updater plugin install nag
+remove_action('admin_notices', 'woothemes_updater_notice');
