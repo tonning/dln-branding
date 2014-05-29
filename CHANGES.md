@@ -1,5 +1,7 @@
 == Changelog ==
 
+= 1.1.2 =
+Removed WooThemes Updater plugin install nag
 
 = 1.1.0 =
 
